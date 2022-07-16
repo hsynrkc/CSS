@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color:#DBDFFD;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: #f59314;
+}
+h3{
+    color: #242F9B;
+}
+h4{
+    color: #ec4b0c;
+}
+.sirala{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+#ul2{
+    
+    list-style-position:inside;
+    /*display: inline-table; -->noktalar daha düzenli*/
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+#li1{
+    list-style: none;
+}
+.p1{
+    text-align: start;
+}
